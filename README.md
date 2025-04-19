@@ -1,2 +1,4 @@
 # carMediaSystem
 车载多媒体系统
+实现功能：主界面显示四大模块，天气预报，音乐播放器，视频播放器，定位系统
+其中音乐播放器使用qml设计，通过QQmlApplicationEngine方法嵌入到qtwidget窗口中，因为qml的设计根对象是window，使用QQuickWidget会报错。
