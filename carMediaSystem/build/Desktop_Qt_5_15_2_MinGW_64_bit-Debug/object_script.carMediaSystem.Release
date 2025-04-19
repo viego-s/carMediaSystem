@@ -1,0 +1,10 @@
+release/labelclickeventfilter.o
+release/main.o
+release/mainwindow.o
+release/weatherwindow.o
+release/qrc_qml.o
+release/qrc_res.o
+release/qrc_resource.o
+release/moc_labelclickeventfilter.o
+release/moc_mainwindow.o
+release/moc_weatherwindow.o
